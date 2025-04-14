@@ -1,0 +1,14 @@
+body {
+    background-color: #F5DEB3; /* 杏色 (Wheat) */
+}
+
+.card {
+    background-color: #FFF8DC; /* 玉米絲色 (Cornsilk) */
+    border: 2px solid #D2B48C; /* 黃褐色 (Tan) */
+    padding: 10px;
+    border-radius: 5px;
+}
+h3,h4,a{
+    text-align: center;
+    color: #8B4513; /* 棕色 (SaddleBrown) */
+}
